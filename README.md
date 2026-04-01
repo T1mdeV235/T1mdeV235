@@ -40,7 +40,7 @@
 
 # ⚡ TECH STACK
 
-### 🌐 Frontend
+### 🌐 Programming languages and knowlages
 
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
